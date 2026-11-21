@@ -35,11 +35,11 @@ nikhilesh-andhe
 $ cat profile.txt
 role        : Full-Stack Developer (MERN) + Startup Admin
 startup     : Backtoroots  ->  [one line: what Backtoroots does]
-education   : B.Tech, [YOUR BRANCH] @ [YOUR COLLEGE]
+education   : B.Tech, Information Technology @ D.Y.Patil University
 cgpa        : 8.45
 dsa         : 150+ problems solved
 learning    : Spring Boot | System Design | Cloud
-based_in    : [YOUR CITY], India
+based_in    : Pune, India
 
 $ echo $MISSION
 "Build useful things, ship them, and learn from real users."
@@ -105,18 +105,15 @@ As **Admin**, I [describe what you actually do, for example: manage day-to-day o
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
+<a href="https://github.com/nanidirector/Ai-voice-agent">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=d1d5db&icon_color=22c55e" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
+<a href="https://github.com/nanidirector/Expense-Tracker">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=d1d5db&icon_color=22c55e" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
+<a href="https://github.com/nanidirector/student-management-system">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=d1d5db&icon_color=22c55e" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=d1d5db&icon_color=22c55e" />
 </a>
 
 </div>
